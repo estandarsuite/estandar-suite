@@ -1,0 +1,18 @@
+title: "Estandar Suite"
+description: "AI-powered WordPress ecosystem by Estandar Studio Chile – plugins, themes and automation tools."
+theme: jekyll-theme-cayman
+lang: en
+url: "https://suite.estandar.cl"
+baseurl: ""
+show_downloads: false
+
+social_links:
+  github: https://github.com/estandarsuite/estandar-suite
+  website: https://www.estandar.cl
+
+plugins:
+  - jekyll-seo-tag
+
+colors:
+  header-bg: "#00C49A"
+  accent: "#00977A"
