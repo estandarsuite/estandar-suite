@@ -1,4 +1,18 @@
 {
   "version": "1.0.1",
-  "download_url": "https://github.com/estandarstudio/estandar-suite/archive/refs/tags/1.0.1.zip"
+  "name": "Estandar Suite",
+  "description": "Central hub for all Estandar Studio WordPress tools — AI, automation, and design plugins in one unified dashboard.",
+  "download_url": "https://github.com/estandarstudio/estandar-suite/archive/refs/tags/1.0.1.zip",
+  "requires": "6.0",
+  "tested": "6.7",
+  "requires_php": "7.4",
+  "author": "Estandar Studio Chile",
+  "author_url": "https://www.estandar.cl",
+  "homepage": "https://suite.estandar.cl",
+  "license": "GPLv2 or later",
+  "sections": {
+    "description": "Estandar Suite unifies all Estandar Studio plugins and themes into one smart dashboard for creators who use AI, automation, and design.",
+    "installation": "Upload the plugin to your WordPress site or install directly from GitHub, then activate it from the Plugins page.",
+    "changelog": "Version 1.0.1 — initial public release with AI Copilot and GitHub auto-updater integration."
+  }
 }
